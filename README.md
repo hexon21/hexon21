@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hexon21
-- 👀 I’m interested in  la inteligencia artifial 
-- 🌱 I’m currently learning  Python
-- 💞️ I’m looking to collaborate on inteligencia artificial
-- 📫 How to reach me ...
+- 👀 I’m working in ML engineer an IA tools  
+- 🌱 I’m currently colaborate in anyoneIA 
+
 
 <!---
 hexon21/hexon21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
